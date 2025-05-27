@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @andrewimredy
-- 👀 I’m interested in many areas of computer science, but particularly in cryptography, blockchain, and applications of technology in finance.
-- 📫 How to reach me: andrew.imredy@pitt.edu
+- 👋 Hi, I’m Andrew
+- 👀 I’m interested in many areas of computer science, but particularly in applications of technology in finance.
+- 📫 How to reach me: andrew.imredy@gmail.com
 
 <!---
 andrewimredy/andrewimredy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
