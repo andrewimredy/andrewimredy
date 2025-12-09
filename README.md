@@ -1,4 +1,5 @@
-- 🌎 https://andrewimredy.me
+Lead Software Engineer at Freedom Gateway
+https://andrewimredy.me
 
 <!---
 andrewimredy/andrewimredy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
